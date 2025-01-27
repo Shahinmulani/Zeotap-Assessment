@@ -1,0 +1,9 @@
+
+Clustering Results:
+- Number of Clusters Formed: 2
+- Best DB Index Value: 0.635
+- Silhouette Score (for optimal k): 0.545
+
+Other Metrics:
+- DB Index Scores for K (2-10): 2: 0.635, 3: 0.691, 4: 0.726, 5: 0.757, 6: 0.811, 7: 0.870, 8: 0.880, 9: 0.829, 10: 0.749
+- Silhouette Scores for K (2-10): 2: 0.545, 3: 0.455, 4: 0.446, 5: 0.429, 6: 0.394, 7: 0.369, 8: 0.368, 9: 0.383, 10: 0.386
